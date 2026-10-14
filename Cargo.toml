@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/scancraft-core",
+    "crates/scancraft-kernel"
+]
+resolver = "2"
