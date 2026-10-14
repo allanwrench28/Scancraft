@@ -3,8 +3,9 @@
 Convert binary STL meshes to millimetre-unit STEP (AP214) B-reps using the
 Monstertruck CAD kernel and STEP serializer.
 <img width="1917" height="1015" alt="Screenshot 2026-10-14 001918" src="https://github.com/user-attachments/assets/96f29f81-0288-4bbe-9e9e-a9ce5bc1e552" />
-<img width="810" height="552" alt="Screenshot 2026-10-14 002010" src="https://github.com/user-attachments/assets/321d92f1-0691-4e46-b7de-46fceda8ff2a" />
 <img width="953" height="676" alt="Screenshot 2026-10-14 002021" src="https://github.com/user-attachments/assets/94e2291f-9b54-4690-9d2c-c1b835b0a781" />
+<img width="810" height="552" alt="Screenshot 2026-10-14 002010" src="https://github.com/user-attachments/assets/321d92f1-0691-4e46-b7de-46fceda8ff2a" />
+
 
 
 ## Windows App
